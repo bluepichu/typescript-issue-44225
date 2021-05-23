@@ -1,0 +1,13 @@
+{
+  "name": "typescript-issue-44225",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bluepichu <git@bluepichu.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
